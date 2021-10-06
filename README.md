@@ -19,7 +19,18 @@ New Project:
   cd name-project
   ng serve
 ```
-  
+
+Host:
+
+```bash
+  http://localhost:4200/
+```
+
+Install Angular Material
+
+```bash
+  ng add @angular/material
+```
 ## Authors
 
 - [@PavloSeniv](https://github.com/PavloSeniv)
