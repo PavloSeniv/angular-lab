@@ -35,6 +35,11 @@ Install Angular Material
 ```bash
   npm i @angular/flex-layout
 ```
+
+```bash
+ng generate component xyz
+```
+
 ## Authors
 
 - [@PavloSeniv](https://github.com/PavloSeniv)
