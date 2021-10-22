@@ -60,6 +60,8 @@ const ITEMS: Item[] = [
 })
 export class CatalogComponent implements OnInit {
   
+  titleCatalog = 'Catalog';
+
   items = ITEMS;
 
   // selectedItem: Item = this.items[0];
