@@ -1,1 +1,13 @@
-<p>catalog works!</p>
+<div class="container" fxLayout="column" fxLayoutGap="10px">
+
+  <mat-list fxFlex>
+    <mat-list-item *ngFor="let item of items">
+      <img matListAvatar src={{item.image}} alt={{item.name}}>
+      <h2 matLine>{{item.name}}</h2>
+      <p matLine>
+        <span>{{item.description}}</span>
+      </p>
+    </mat-list-item>
+  </mat-list>
+
+</div>
