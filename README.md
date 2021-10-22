@@ -40,6 +40,11 @@ Install Angular Material
 ng generate component xyz
 ```
 
+"outputPath": "dist/seniv-pavlo-app",
+
+ng build --prod --baseHref=" https://pavloseniv.github.io/angular-lab/"
+
+
 ## Authors
 
 - [@PavloSeniv](https://github.com/PavloSeniv)
