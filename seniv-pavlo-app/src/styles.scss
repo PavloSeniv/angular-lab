@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 
-@import '@angular/material/prebuilt-themes/purple-green.css';
+@import "@angular/material/prebuilt-themes/purple-green.css";
 
 /*-------- Обнулення -------*/
 * {
@@ -44,7 +44,7 @@ body {
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  font-family: Roboto, 'Helvetica Naue', sans-serif;
+  font-family: Roboto, "Helvetica Naue", sans-serif;
 }
 
 input,
@@ -94,7 +94,10 @@ h6 {
 }
 /*-------- Обнулення -------*/
 
-.container{
+.container {
   margin: 20px;
   display: flex;
+}
+.catalog-title {
+  text-align: center;
 }
