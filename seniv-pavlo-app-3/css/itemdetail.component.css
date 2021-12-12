@@ -1,0 +1,8 @@
+.my-card {
+  margin: 20px;
+}
+
+.my-card mat-card-title {
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=itemdetail.component.css.map */

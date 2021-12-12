@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oBAAoB,CAAC;EACnB,cAAc,EAAE,SAAS;CAC1B",
+    "sources": [
+        "../src/components/catalog/catalog.component.scss"
+    ],
+    "names": [],
+    "file": "catalog.component.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACZ,SAAS,EAAE,KAAK;EAChB,MAAM,EAAI,IAAI;CACf;;AAED,AAAA,qBAAqB,CAAC;EACpB,eAAe,EAAE,KAAK;CACvB;;AAED,AAAA,aAAa,CAAA;EACX,UAAU,EAAE,OAAO;CACpB;;AAED,AAAA,cAAc,CAAA;EACd,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,IAAI;CAChB",
+    "sources": [
+        "../src/components/dishes/dishes.component.scss"
+    ],
+    "names": [],
+    "file": "dishes.component.css"
+}

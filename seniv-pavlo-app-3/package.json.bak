@@ -11,7 +11,7 @@
   },
   "author": "Seniv Pavlo",
   "license": "ISC",
-  "keywords": ["MERN", "Node.js"],
+  "keywords": [],
   "homepage": "https://github.com/PavloSeniv",
   "private": true,
   "dependencies": {
